@@ -6,6 +6,6 @@ a.append(v)
 b=int(input("enter a number"))
 c=0
 for i in a:
-    if a[i]<b:
+    if i<b:
         c+=1
 print (c)
