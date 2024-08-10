@@ -1,7 +1,7 @@
-a=list(input("enter an array").split())
+a = list(map(int, input("Enter an array: ").split()))
 b=int(input("enter a number"))
 c=0
 for i in a:
-    if a[i]<b:
+    if ai<:
         c+=1
 print (c)
