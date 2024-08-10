@@ -1,3 +1,4 @@
+#num of elements in an array that are < a specific num 
 #a=list(map(int(input("enter an array").split())))
 a=list()
 v=(int(input("enter an array").split()))
